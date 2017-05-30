@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "me.ruservice.app",
+    "sha256_cert_fingerprints": ["FD:72:C7:2A:F4:31:C8:1A:8A:D0:57:5C:8C:2C:B2:50:C1:2C:35:42:1D:69:45:DA:1B:51:2D:E6:0B:3E:1D:41"]
+  }
+}]
